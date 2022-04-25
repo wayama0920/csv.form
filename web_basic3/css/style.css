@@ -1,0 +1,66 @@
+
+
+table,th,td {
+ 	border: 1px #808080 solid;
+}
+
+table {
+	float:left;
+	margin-bottom:20px;
+}
+
+.tdtitle{
+	width:300px;
+}
+
+.tdIsbn{
+	width:60px;
+}
+.aa,.ba,.ca{
+	clear: left;
+ 	border: 0px none;
+	padding-right:20px;
+}
+
+.tdmessage {
+	float:right;
+	border: 0px none;
+	padding-bottom:120px;
+}
+
+p{
+	 color: #ff0000;
+}
+
+.submit {
+	margin-bottom:20px;
+	clear: left;
+	display:block;
+	width:50px;
+}
+
+.a{
+	clear: left;
+	display:block;
+}
+
+.p {
+	clear: left;
+	display:block;
+}
+
+td.input {
+	width:300px;
+}
+
+th.input {
+	width:100px;
+}
+
+input.input {
+	width:300px;
+}
+
+th.thIsbn{
+	width:60px;
+}
