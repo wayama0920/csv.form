@@ -7,7 +7,7 @@ List<FileDto> list = (List<FileDto>)request.getAttribute("list");
 %>
 <html>
 <head>
-	<title>a一覧画面</title>
+	<title>一覧画面</title>
 	<link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/style.css">
 </head>
 	<h2>一覧画面</h2>
